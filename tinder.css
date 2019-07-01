@@ -1,0 +1,95 @@
+@charset "UTF-8";
+body{
+  margin: 0px;
+}
+.logo {
+  float:left;
+  height: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.h13{
+  font-size: 20px;
+  color: red;
+  float: right;
+ background-color: #FFFFFF;
+font-family: 'Bitter',serif;
+width: 113px;<!--ボタンのサイズ-->
+height: 40px;
+text-align: center;
+display: block;
+line-height: 40px;
+margin-right: 20px;
+border-radius: 5px;　<!--ボタンの角を丸く-->
+border: 3px solid #FFFFFF;
+text-decoration: none;<!--下線をOFF-->
+
+
+}
+
+.header{
+  height:96px;
+}
+.main {
+  background-image: url(./img/paripi3.jpg);
+  background-size: cover;
+  height: 1000px;
+  width: 100%;
+  font-size: 96px;
+
+
+}
+.swipe{
+  font-size: 50px;
+}
+.h11{
+  font-size: 120px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.footer{
+  background:linear-gradient(-135deg,red,blue);
+  text-decoration: none;
+}
+.swipe{
+  text-align:center;
+  text-decoration: none;
+}
+.h12{
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-left: 450px;
+  margin-right: 450px;
+
+}
+.a1{
+  color: #FFFFFF;
+}
+.a2{
+  text-decoration: none;
+    color: #FFFFFF;
+}
+.h14{
+  text-decoration: none;
+  text-align: center;
+
+  color: #FFFFFF;
+  background  :linear-gradient(-135deg,red,#FFFFFF);
+    font-size: 20px;
+    display: block;
+    line-height: 40px;
+    margin-right: 200px;
+    border-radius: 50px;　
+    font-family: 'Bitter',serif;
+    width: 260px;
+    height: 55px;
+    margin: 0 auto;
+    line-height: 55px;
+}
+
+.a4{
+  text-decoration: none;
+}
